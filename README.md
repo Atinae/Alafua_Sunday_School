@@ -1,2 +1,2 @@
 # Alafua_Sunday_School
-Sunday School Website
+<p>Save the document by pressing <kbd>Ctrl + S</kbd></p>
